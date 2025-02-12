@@ -1,0 +1,45 @@
+generating_institute     gfz-potsdam
+     generating_date     2025/02/11
+        product_type     gravity_field
+                body     earth
+           modelname     AIUB-CHAMP01S
+     max_used_degree            70
+         tide_system     tide_free
+          functional     geoid
+    zero_degree_term     included
+                unit     meter
+       crust_density     2670.0 kg/m**3
+          refsysname     WGS84
+            gmrefpot      3.98600441800E+14 m**3/s**2
+        radiusrefpot     6378137.000 m
+          flatrefpot      3.352810664747480E-03   (1/298.25722356300)
+         omegarefpot      7.29211500000E-05 1/s
+    normal_potential      6.263685171456948E+07 m**2/s**2
+       long_lat_unit     degree
+      latlimit_north       36.470000000000    
+      latlimit_south       34.470000000000    
+      longlimit_west       268.73000000000    
+      longlimit_east       270.73000000000    
+            gridstep       1.0000000000000    
+  latitude_parallels             3
+ longitude_parallels             3
+number_of_gridpoints             9
+            gapvalue            999.0000
+       weighted_mean     -2.7690031E+01 meter
+            maxvalue     -2.7093316E+01 meter
+            minvalue     -2.8549333E+01 meter
+         signal_wrms      4.4546198E-01 meter
+         grid_format     long_lat_value
+ 
+          longitude    latitude    geoid
+            [deg.]      [deg.]         [meter]
+end_of_head ============================================
+           268.7300     36.4700      -28.549333202264
+           269.7300     36.4700      -28.028369155659
+           270.7300     36.4700      -28.116240799014
+           268.7300     35.4700      -27.570105614724
+           269.7300     35.4700      -27.369159318793
+           270.7300     35.4700      -27.693342181780
+           268.7300     34.4700      -27.093316459850
+           269.7300     34.4700      -27.158606340920
+           270.7300     34.4700      -27.666388946980
